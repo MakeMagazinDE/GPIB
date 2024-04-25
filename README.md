@@ -9,6 +9,6 @@ Maker Media GmbH
 
 Ergänzend zum Artikel auf heise+ finden Sie hier die benötigten Daten des Beispielprojekts.
 
-![Picture](https://github.com/MakeMagazinDE/GBIP/blob/main/gbip_master.jpg)
+![Picture](https://github.com/MakeMagazinDE/GPIB/blob/main/gpib_master.jpg)
 
 Den heise+-Artikel gibt es **[hier](https://google.de)** zu lesen.

@@ -11,4 +11,4 @@ Ergänzend zum Artikel auf heise+ finden Sie hier die benötigten Daten des Beis
 
 ![Picture](https://github.com/MakeMagazinDE/GPIB/blob/main/gpib_master.jpg)
 
-Den heise+-Artikel gibt es demnächst **[auf heise+](https://www.heise.de/plus/)** zu lesen.
+Den heise+-Artikel gibt es **[auf heise+](https://www.heise.de/hintergrund/Know-how-Messgeraete-mit-GPIB-fernsteuern-9679149.html)** zu lesen.
